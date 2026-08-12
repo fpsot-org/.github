@@ -2,7 +2,7 @@
 
 > **Where Public Sector Meets Open Innovation.**
 
-The **Foundation for Public Sector Open Technology (FPSOT)** is a non-profit initiative helping governments and public institutions adopt, build, and sustain free and open technologies. We believe public services should run on software that is transparent, interoperable, and community-owned.
+The **Foundation for Public Sector Open Technology (FPSOT)** is a non-profit initiative helping governments and public institutions adopt, build, and sustain free and open technologies. We believe public services should run on software that is transparent, interoperable, and community-owned. Unlike advocacy-only groups, FPSOT pairs policy work with hands-on engineering: we build and maintain the open components and reference implementations that public institutions can actually deploy.
 
 ---
 
@@ -35,6 +35,6 @@ FPSOT is at an early stage, and the people who show up now will shape its direct
 
 - 💬 **Have an idea or question?** [Open an issue](https://github.com/fpsot-org/.github/issues) — this repo is our front door while the project takes shape.
 - 🛠️ **Want to contribute?** Documentation, examples, and code are all welcome; start with an issue so we can point you in the right direction.
-- 🌍 **Work in the public sector?** We'd especially like to hear from you. Reach us at **contact@fpsot.example** <!-- TODO: replace with real contact address -->
+- 🌍 **Work in the public sector?** We'd especially like to hear from you — [say hello in an issue](https://github.com/fpsot-org/.github/issues).
 
-Our website is coming soon at [fpsot-org.github.io](https://fpsot-org.github.io).
+Visit our website at [fpsot-org.github.io](https://fpsot-org.github.io) (English and [French](https://fpsot-org.github.io/fr/)).
