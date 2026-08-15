@@ -2,7 +2,7 @@
 
 > **Where Public Sector Meets Open Innovation.**
 
-The **Foundation for Public Sector Open Technology (FPSOT)** is a non-profit initiative helping governments and public institutions adopt, build, and sustain free and open technologies. We believe public services should run on software that is transparent, interoperable, and community-owned. Unlike advocacy-only groups, FPSOT pairs policy work with hands-on engineering: we build and maintain the open components and reference implementations that public institutions can actually deploy.
+The **Foundation for Public Sector Open Technology (FPSOT)** is a non-profit initiative helping governments and public institutions adopt, build, and sustain free and open technologies. We believe public services should run on software that is transparent, interoperable, and community-owned. FPSOT works at both ends of that problem: the policy and procurement frameworks that make open technology adoptable, and the code and reference implementations that make it deployable.
 
 ---
 
