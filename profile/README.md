@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="fpsot-logo.svg" alt="FPSOT emblem" width="160">
+</p>
+
 # FPSOT – Foundation for Public Sector Open Technology
 
 > **Where Public Sector Meets Open Innovation.**
