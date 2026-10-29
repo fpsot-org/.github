@@ -37,4 +37,4 @@ FPSOT is at an early stage, and the people who show up now will shape its direct
 - 🛠️ **Want to contribute?** Documentation, examples, and code are all welcome; start with an issue so we can point you in the right direction.
 - 🌍 **Work in the public sector?** We'd especially like to hear from you — [say hello in an issue](https://github.com/fpsot-org/.github/issues).
 
-Visit our website at [fpsot-org.github.io](https://fpsot-org.github.io) (English and [French](https://fpsot-org.github.io/fr/)).
+Visit our website at [fpsot.org](https://fpsot.org) (English and [French](https://fpsot.org/fr/)).
